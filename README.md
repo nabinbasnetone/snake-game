@@ -1,4 +1,5 @@
-# snake-game
+#I made this game quit a long time ago, and didnot uploaded correctly then so now i will update it perodically and revive it.. thank you
+
 
 import pygame
 import random
